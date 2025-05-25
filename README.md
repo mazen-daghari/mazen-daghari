@@ -1,5 +1,13 @@
 # 💫 About Me:
-Mazen Daghari is an Electronic and Communication Systems Engineer specializing in embedded systems, with hands-on expertise in robotics, autonomous navigation, and AI-driven perception systems. He is the creator of the Nomade Rover, a tactical defense and surveillance platform featuring advanced modules such as the Samurai Module equipped with an AI-controlled machine gun, sensor fusion, and Ackermann steering integration.<br><br>Mazen has extensive experience using ROS 2 (Robot Operating System), Gazebo Classic, RViz, and NVIDIA Jetson for robotics simulation and real-time control. His work spans the full development cycle, from simulation (using tools like Isaac Sim and RViz) to real-world implementation, including CAN-bus-based motor control, LiDAR and camera-based perception, and behavior tree architecture for autonomous following and obstacle avoidance.<br><br>His academic journey is anchored at the National School of Electronics and Telecommunications of Sfax (ENET'Com), where he focuses on practical and theoretical applications of embedded systems in robotic platforms.<br><br>Mazen maintains an active presence in the tech community via his GitHub and LinkedIn, where he shares updates on his projects and collaborations. He is known for his ability to bridge the gap between simulation and field deployment in robotics applications.
+I’m Mazen Daghari, an Electronic and Communication Systems Engineer specializing in embedded systems and robotics. My passion lies in developing intelligent robotic platforms that integrate real-time control, autonomous navigation, and sensor-based decision-making.
+
+One of my main projects is the Nomade Rover, a tactical defense and surveillance robot. It features modules like the Samurai Module, which includes an AI-controlled machine gun, advanced sensors (LiDAR, depth and infrared cameras), and a mobility system driven by Ackermann steering controlled over the CAN bus using ESP32.
+
+I’ve worked extensively with ROS 2, Gazebo Classic, RViz, and NVIDIA Jetson platforms to simulate, test, and deploy robotics applications. I also use tools like Isaac Sim for advanced simulation and behavior trees to implement complex autonomous tasks, such as person-following using camera and LiDAR data.
+
+Academically, I’m studying at the National School of Electronics and Telecommunications of Sfax (ENET'Com), where I focus on practical and research-based applications of embedded systems in autonomous robotics.
+
+I'm committed to bridging the gap between simulation and real-world performance in robotics, and I share my work and collaborate with others through GitHub and LinkedIn.
 
 
 ## 🌐 Socials:
